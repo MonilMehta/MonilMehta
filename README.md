@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer, coder, engineer from India.</h2>
+<h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer from India.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+currently+learning+Data+Structures;I'm+interested+in+Machine+Learning;I+love+to+play+video+games+in+my+free+time)](https://git.io/typing-svg)
+
+
 
 
 ## Personal Quote
@@ -87,13 +89,12 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Monil Mehta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical" alt="Monil Mehta's GitHub stats" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;" />
+</div>
 
 ## GitHub Trophies
 
 ![Monil Mehta's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MonilMehta&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical)
 
