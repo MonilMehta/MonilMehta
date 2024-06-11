@@ -77,4 +77,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
+
+
 ###
