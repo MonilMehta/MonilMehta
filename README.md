@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer from India.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+currently+learning+Data+Structures;I'm+interested+in+Machine+Learning;I+love+to+play+video+games+in+my+free+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+currently+learning+Data+Structures;I'm+interested+in+Machine+Learning;I+love+to+read+books+.)](https://git.io/typing-svg)
 
 
 
@@ -90,9 +90,10 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical" alt="Monil Mehta's GitHub stats" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical" alt="Monil Mehta's GitHub stats" style="width: 49%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px;" />
 </div>
+
 
 ## GitHub Trophies
 
