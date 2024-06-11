@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 </div>
 
 <img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
+![snake gif](https://github.com/MonilMehta/MonilMehta/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/MonilMehta/MonilMehta/blob/output/github-contribution-grid-snake.svg))
 ###
