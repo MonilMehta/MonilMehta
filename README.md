@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer,coder,engineer from India.</h2>
 
+## Personal Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
 ###
 
 <img align="right" height="180" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgxMDAzMzksIm5iZiI6MTcxODEwMDAzOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjExVDEwMDAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MDk5NWJiOTkxMWMwMDI2YWM4YWZlMjBhMmMwODIyNDFmODYzZThjNjJjMDQzNDc1YjRlZTAzMGVmYjYxNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iXjwT3r1zmuB_5HD8pGW2XBFYTrwnRoMkh04QbTRc1s"  />
@@ -77,7 +81,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## Meme of the Day
+## GitHub Stats
 
-<img src='http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
-###
+![Monil Mehta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical)
+
+## GitHub Trophies
+
+![Monil Mehta's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MonilMehta&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical)
+
