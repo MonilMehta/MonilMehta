@@ -12,12 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer, coder, engineer from India.</h2>
 
-<h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer,coder,engineer from India.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ## Personal Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
+
+
 
 ###
 
