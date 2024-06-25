@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer from India.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+currently+learning+Data+Structures;I'm+interested+in+Machine+Learning;I+love+to+read+books+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+pre-final+year+student;Currently+focusing+On+Data+Structures;Trying+new+things+whenever+I+get+a+chance.)](https://git.io/typing-svg)
 
 
 
