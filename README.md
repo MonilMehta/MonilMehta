@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Replace GIF URL below after uploading to repo -->
-  <img src="https://github.com/MonilMehta/config-files/blob/main/coding.gif" alt="Coding aesthetic GIF" width="100%" />
+  <img src="https://github.com/MonilMehta/MonilMehta/blob/main/coding.gif" alt="Coding aesthetic GIF" width="100%" />
 </div>
 
 <h3 align="center">Software Engineer crafting fast, delightful, human-centered digital experiences.</h3>
@@ -11,7 +11,7 @@
 <div align="left">
   <h2>
     💼 Currently Building @ &nbsp;Grapevine (Round1AI)
-    <img src="https://github.com/MonilMehta/config-files/blob/main/gvlogo.jpg" href="https://grapevine.in" height="24" />
+    <img src="https://github.com/MonilMehta/MonilMehta/blob/main/gvlogo.jpg" href="https://grapevine.in" height="24" />
   </h2>
 </div>
 
@@ -134,8 +134,7 @@ Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?
 <br>
 
 <div align="center">
-  <!-- Snake animation — requires it to exist in your repo -->
-  <img src="https://raw.githubusercontent.com/MonilMehta/MonilMehta/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MonilMehta/MonilMehta/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 </div>
 
 ---
