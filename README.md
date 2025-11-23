@@ -1,101 +1,173 @@
-<!--
-**MonilMehta/MonilMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World! I'm Monil Mehta
 
-Here are some ideas to get you started:
+<div align="center">
+  <!-- Replace GIF URL below after uploading to repo -->
+  <img src="https://github.com/MonilMehta/config-files/blob/main/coding.gif" alt="Coding aesthetic GIF" width="100%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="left">Hi 👋! My name is Monil Mehta and I'm a developer from India.</h2>
+<h3 align="center">Software Engineer crafting fast, delightful, human-centered digital experiences.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+pre-final+year+student;Currently+focusing+On+Data+Structures;Trying+new+things+whenever+I+get+a+chance.)](https://git.io/typing-svg)
-
-
-
-
-## Personal Quote
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-
-
-###
-
-<img align="right" height="180" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgxMDAzMzksIm5iZiI6MTcxODEwMDAzOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjExVDEwMDAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MDk5NWJiOTkxMWMwMDI2YWM4YWZlMjBhMmMwODIyNDFmODYzZThjNjJjMDQzNDc1YjRlZTAzMGVmYjYxNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iXjwT3r1zmuB_5HD8pGW2XBFYTrwnRoMkh04QbTRc1s"  />
-
-###
-
+---
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <h2>
+    💼 Currently Building @ &nbsp;Grapevine (Round1AI)
+    <img src="https://github.com/MonilMehta/config-files/blob/main/gvlogo.jpg" href="https://grapevine.in" height="24" />
+  </h2>
 </div>
 
-###
+Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?id=com.readyai.app)** — engineering across mobile, web, and product experience.
 
-<div align="left">
-  <a href="https://discordapp.com/users/monkninja" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=monilmehta5@gmail.com&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mm-monil-mehta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+---
+
+### 🧰 Daily Drivers
+
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" title="Next.js"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="42" title="React Native"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="42" title="Expo"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" title="TypeScript"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" title="Django"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" title="Node.js"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" title="Express"/>
+
+<br/>
+
+<!-- Row 2 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="MySQL"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" title="Redis"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" title="Docker"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" title="AWS"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" title="GCP"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" title="Figma"/>
+
+<br/>
+
+<!-- Row 3 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VS Code"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="42" title="Xcode"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="42" title="Vite"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="42" title="Streamlit"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="42" title="Selenium"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42" title="Redux"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42" title="Prisma"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42" title="Postman"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ohmyzsh/ohmyzsh-original.svg" height="42" title="Oh My Zsh"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" height="42" title="Homebrew"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="42" title="Google Colab"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" title="Flask"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="42" title="Django REST Framework"/>
+
 </div>
 
-## GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=radical" alt="Monil Mehta's GitHub stats" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px;" />
+
+---
+
+### 🏆 Badges, Achievements & Curiosities
+
+[![An image of @monilmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/monilmehta)](https://holopin.io/@monilmehta)
+
+---
+### 📊 GitHub Activity & Vibes
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%"/>
+</td>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=github_dark&hide_border=true" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MonilMehta&theme=discord&no-frame=true&row=1&column=6" width="100%"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 
-## GitHub Trophies
+<br>
 
-![Monil Mehta's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MonilMehta&theme=radical)
+<div align="center">
+  <!-- Snake animation — requires it to exist in your repo -->
+  <img src="https://raw.githubusercontent.com/MonilMehta/MonilMehta/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
+---
+### 📬 Let's Connect!
+
+<div align="center">
+
+<a href="https://monilmehta.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/mm-monil-mehta" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:monilmehta5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/monkninja" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/monilmehh" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
+
+
+
+<br>
+<p align="center">
+  <code>// Always shipping. Mostly intentional. 🚀</code>
+</p>
