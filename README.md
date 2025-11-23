@@ -21,83 +21,11 @@ Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?
 
 ### 🧰 Daily Drivers
 
+### 🧰 Daily Drivers
+
 <div align="center">
-
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" title="Next.js"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="42" title="React Native"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="42" title="Expo"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" title="TypeScript"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" title="Django"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" title="Node.js"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" title="Express"/>
-
-<br/>
-
-<!-- Row 2 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="MySQL"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" title="Redis"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" title="Docker"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" title="AWS"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" title="GCP"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" title="Figma"/>
-
-<br/>
-
-<!-- Row 3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VS Code"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="42" title="Xcode"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="42" title="Vite"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="42" title="Streamlit"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="42" title="Selenium"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42" title="Redux"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42" title="Prisma"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42" title="Postman"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ohmyzsh/ohmyzsh-original.svg" height="42" title="Oh My Zsh"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" height="42" title="Homebrew"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="42" title="Google Colab"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" title="Flask"/>
-<img width="14"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="42" title="Django REST Framework"/>
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,nodejs,express,postgres,react,expo,mongodb,mysql,redis,docker,aws,gcp,git,github,figma,tailwind,vscode,xcode,vite,redux,prisma,postman,selenium,streamlit,firebase,supabase,html,css,vercel&perline=10" />
 </div>
-
 
 
 ---
@@ -114,10 +42,10 @@ Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MonilMehta&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 </td>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=github_dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonilMehta&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 </td>
 </tr>
 
