@@ -49,11 +49,11 @@ Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td colspan="2" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MonilMehta&theme=discord&no-frame=true&row=1&column=6" width="100%"/>
 </td>
-</tr>
+</tr> -->
 </table>
 
 </div>
