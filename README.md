@@ -19,7 +19,6 @@ Currently making the **[ReadyAI app](https://play.google.com/store/apps/details?
 
 ---
 
-### 🧰 Daily Drivers
 
 ### 🧰 Daily Drivers
 
